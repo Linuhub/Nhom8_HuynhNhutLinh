@@ -1,0 +1,16 @@
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\bin\Debug\smtp.exe.config
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\bin\Debug\smtp.exe
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\bin\Debug\smtp.pdb
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.csproj.AssemblyReference.cache
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.csproj.SuggestedBindingRedirects.cache
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.Form1.resources
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.Properties.Resources.resources
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.csproj.GenerateResource.cache
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.csproj.CoreCompileInputs.cache
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.exe
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.pdb
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.SendMail.resources
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\bin\Debug\Mail.dll
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\bin\Debug\Mail.xml
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.MailBox.resources
+D:\UIT\HK4\NT106\deadline\dl-11-5\smtp\smtp\obj\Debug\smtp.csproj.CopyComplete
